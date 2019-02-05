@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.main-header{
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+
+}
+.main-header >ul{
+    list-style: none;
+
+}
